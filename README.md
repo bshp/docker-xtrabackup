@@ -1,4 +1,4 @@
-# Percona XtraBackup for Windows backup
+# Percona XtraBackup for Windows
 
 Backup MySQL on Windows hosts using xtrabackup
 
